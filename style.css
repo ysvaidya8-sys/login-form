@@ -1,0 +1,30 @@
+body{
+font-family:Arial;
+background:#f2f2f2
+}
+.login-box{
+width:300px;
+margin:100px auto;
+padding:20px;
+background:white;
+box-shadow:0 4px 8px rgba(0,0,0,0.2);
+}
+.login-box h2{
+text-align:center;
+}
+.login-box input{
+width:100%;
+padding:8px;
+margin:8px 0;
+}
+.login-box button{
+width:100%;
+padding:10px;
+background:#2c3e50;
+color:white;
+border:none;
+}
+.login-box button:hover{
+background:#1abc9c;
+}
+
