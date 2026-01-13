@@ -8,6 +8,6 @@ Simple login form created using HTML & CSS.
 - HTML
 - CSS
 ## Live demo
-https://yogitavaidya8-sys.github.io/login-form/
+https://ysvaidya8-sys.github.io/login-form/
 ## Author
 Yogita Vaidya
